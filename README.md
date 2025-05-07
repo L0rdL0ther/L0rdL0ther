@@ -12,9 +12,10 @@ I am a software developer with a knack for creating engaging applications. While
 
 ## Top Projects
 
+[![WSHome](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=WSHome&theme=dark)](https://github.com/L0rdL0ther/WSHome)
+[![DNS Server](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=dns-server&theme=dark)](https://github.com/L0rdL0ther/dns-server)
 [![DiscordMusicBot](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=DiscordMusicBot&theme=dark)](https://github.com/L0rdL0ther/DiscordMusicBot)
-[![BasicDnsServer](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=BasicDnsServer&theme=dark)](https://github.com/L0rdL0ther/BasicDnsServer)
-[![JSON-for-Modern-C-](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=JSON-for-Modern-C-&theme=dark)](https://github.com/L0rdL0ther/JSON-for-Modern-C-)
+[![home_managment](https://github-readme-stats.vercel.app/api/pin/?username=L0rdL0ther&repo=home_managment&theme=dark)](https://github.com/L0rdL0ther/home_managment)
 
 ## GitHub Stats
 🔹 Public Repositories: 19  
